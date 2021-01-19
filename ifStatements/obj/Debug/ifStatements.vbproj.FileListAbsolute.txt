@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\bin\Debug\ifStatements.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\bin\Debug\ifStatements.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\bin\Debug\ifStatements.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\bin\Debug\ifStatements.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\obj\Debug\ifStatements.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\obj\Debug\ifStatements.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\obj\Debug\ifStatements.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\obj\Debug\ifStatements.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\obj\Debug\ifStatements.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\ifStatements\ifStatements\obj\Debug\ifStatements.pdb
